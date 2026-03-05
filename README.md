@@ -19,7 +19,7 @@ I am practicing DSA to improve my problem-solving skills and prepare for technic
 
 | Topic | Problems Solved |
 |------|------|
-| Arrays | 0 |
+| Arrays | 1 |
 | Strings | 0 |
 | HashMap | 0 |
 | Sliding Window | 0 |
